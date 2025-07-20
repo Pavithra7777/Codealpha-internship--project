@@ -1,4 +1,8 @@
 # Codealpha-internship--project
+# My Internship Project - [Cloud bus pass]
+This project was done as part of my internship at **CodeAlpha**.
+## Internship: CodeAlpha (June 20-July 20)
+## Intern: Pavithra E
 This repository contains my project for internship in codealpha.
 // Bus pass
 import { useState } from 'react';
